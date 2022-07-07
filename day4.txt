@@ -1,0 +1,6 @@
+9:00 i come in office and i implemented the method but doesn't work..
+10:00 after meet with semra , i talk with other teams and i had made a stupid mistake about creating endpoints(haha)
+12:00 i work with get requests ,taking the questions from db to frontend part using axios.
+13:00 i go for lunch and coffee.
+14:00 i was searching about post request , bcs is the most difficult part of request. so we are thinking about e new table to save all the answers that we send after we submit ..
+17:00 we decide to add a new table for answers that user choose.
