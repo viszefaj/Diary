@@ -1,0 +1,6 @@
+9:00 i come to office and i wait for colleges to manage our day..
+9:45-10:00 we have meeting with semra.
+10:00 together with frajdi we stylize the frontend part and merge it with Marcu part,while Bjorni was involved with seed part.
+14:00 we discuss about the way to connect db with frontend or backend parts.
+15:00 we choose axios(frontend) and react querys for connection with db and we start scrolling about solutions.
+16:00 i had a problem with connection bcs the endpoints weren't anonymous ,so i talked with other team and we figure out the problem..

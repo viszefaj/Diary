@@ -1,0 +1,5 @@
+9:00 we go in office and make scrum call with semra..
+10:00 we started front end part,but we find out that we have some problems with database and relationships,so we go back and rebuild database.
+12:00 After we finished , we shared the work.I work with frontend part with react routes and i fixed the project structure in way that our teammates would have it clear.
+15:00 i take a break(ping pong haha)
+15:30-18:00 i discuss with me colleges about the requests and endpoints and the way to made that.    
