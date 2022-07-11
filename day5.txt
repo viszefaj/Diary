@@ -2,7 +2,6 @@
 11:00 i tried to merge two endpoints and mapping them with Frajdi, but we didnt know how to do that so we searched for solutions in google..
 We find out that we are trying the wrong way , bcs in return it was impossible to do a for loop.
 So we talked with Enea and he told us to make a map with props and in props to save our data..
-13:00 i go for lunch
 14:00 Trying to access data using props.This costs us 2 hours.Finally we get the questions from db, and we are trying to get answers in same way .
 17:00 We had the answers in console log in right way .. 
 17:55 We decided to end the day, and to be prepared and hungry for next one .   
