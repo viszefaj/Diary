@@ -2,5 +2,5 @@
 12:00 after 2 hour off meeting , we join together and brainstorming about solutions of project..
 13:00 we go for lunch..
 14:00 we join the group with TL and started searching for the best solutions and creating database for our project..
-15:00 After we finished that, we take a break (ping pong game haha).
+15:00 After we finished that, we take a break.
 15:30-18:00 finding solutions for the frontend part and understanding the logic about connections with db.
