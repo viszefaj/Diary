@@ -5,4 +5,4 @@ So we talked with Enea and he told us to make a map with props and in props to s
 13:00 i go for lunch
 14:00 Trying to access data using props.This costs us 2 hours.Finally we get the questions from db, and we are trying to get answers in same way .
 17:00 We had the answers in console log in right way .. 
-17:55 We decided to end the day, and to be prepared and hungry for next one (haha).   
+17:55 We decided to end the day, and to be prepared and hungry for next one .   
