@@ -1,0 +1,8 @@
+Saturday ------------------------------------------------
+I had a online call with Frajdi and Bjorni and we discussed about post data part.
+We didnt know where to save the data, so we started brainstorming ..
+I was thinkingof creating a new table for data , where has columns , user_id and data in json and to store all data in same column.
+Sunday---------------------------------------------------
+I was trying to build the dashboard for admin part , but i was messing up with the link of hasura graphql..
+
+ 
