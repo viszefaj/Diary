@@ -1,0 +1,7 @@
+9:00 i come to office i started searching for creating session part using local storage
+I create session but i had a problem with saving data in session.. Every time i store data, the storage keep only the last datas of values..
+So i brainstorming for solutions.
+I tried in many ways but it shows same problem. So i ask Enea and i explain the situation.
+He tell me to work with props and get/set item in local storage.
+I was trying all day, but i get same thing..
+So i decide to search other solutions to save data in session..
