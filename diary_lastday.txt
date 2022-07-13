@@ -1,0 +1,6 @@
+9:00 i come to office and i talked with frajdi how has find out the solution of session..
+After that i stylize the front end part with mui/icons and i worked with data post request..
+After i finished the front end part , i use query and axios to post the data that we stored in local storage..
+So i need a button and a function to take these datas from local storage and to post them in db..
+i created function and everything work prefectly. After that, i use toast (library) to tell user that the answers are posted in db..
+I think the last day it was the best day and the easiest one from beginning..
